@@ -1,3 +1,5 @@
+![Image](https://user-images.githubusercontent.com/110598993/183244259-8f47f078-99a5-45a1-8823-fc3aac3ad2e4.png)
+
 - 👋 Hi, I’m @florian-espinosa
 - 👀 I’m interested in ... getting to know Salesforce more 
 - 🌱 I’m currently learning ... Salesforce Admin and Apex programming with the help of Mission Ready
